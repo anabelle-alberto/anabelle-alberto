@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">Hola 👋, Soy Anabelle Alberto</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Data+Analyst;&center=true&width=500&height=50"></a>
 </p>
