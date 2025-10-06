@@ -9,12 +9,12 @@
 <h1 align="center">Hola 👋, Soy Anabelle Di Marco</h1>
 <h3 align="center">Web Developer</h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Data+Analyst;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Back+End++Developer;Data+Analyst;&center=true&width=500&height=50"></a>
 </p>
 <br>
 
 ## 📫 Sobre mí
-Soy desarrolladora web con experiencia en análisis de datos. Especializado en construir aplicaciones web eficientes y soluciones de análisis y visualización de datos. Me adapto rápido a nuevas tecnologías y mantengo un aprendizaje constante. He trabajado en proyectos freelance combinando desarrollo full-stack y procesamiento de datos, siempre buscando nuevos desafíos para crecer profesionalmente.
+Estudiante de Ingeniería en Sistemas, con formación en Google Cloud Data Analytics y en proceso de especialización en Back End. Me apasiona integrar conocimientos técnicos y habilidades analíticas para contribuir en proyectos tecnológicos desafiantes. Busco desarrollarme en entornos colaborativos que impulsen el aprendizaje continuo, la innovación y la creación de soluciones con impacto positivo en el equipo y la organización.
 
 ## 🚀 Tecnologías y herramientas
 - **Lenguajes:** JavaScript, Python, SQL
